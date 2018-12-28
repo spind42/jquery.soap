@@ -1,13 +1,13 @@
 {
 	"name": "jquery.soap",
-	"version": "1.7.5",
+	"version": "1.7.6",
 	"keywords": [
 		"jquery",
 		"soap",
 		"ajax",
 		"wss"
 	],
-	"license": "GPL-3.0-or-later",
+	"license": "GPL-3.0",
 	"main": "jquery.soap.js",
 	"dependencies": {
 		"jquery": ">=1.9"
